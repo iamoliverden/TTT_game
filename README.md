@@ -1,2 +1,2 @@
-# skillfactory_oliverden
-Contains projects for the skillfactory bootcamp 
+# Tic Tac Toe Game
+
